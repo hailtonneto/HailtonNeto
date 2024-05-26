@@ -3,9 +3,11 @@
 
 <hr>
 
-![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&layout=donut)](https://github.com/hailtonneto/github-readme-stats)
+<div>
+    <a href="https://github.com/hailtonneto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&layout=donut">
+</div>
 
 <hr>
 
