@@ -1,37 +1,43 @@
-# Olá! Eu sou Hailton Neto 🖐🏼
-### Olá! Meu nome é Hailton e estou atualmente cursando o primeiro período de Análise e Desenvolvimento de Sistemas (ADS) na CESAR School. Estou empolgado para iniciar minha carreira profissional e aplicar o que tenho aprendido em sala de aula em um ambiente prático. Estou aberto a oportunidades de estágio, projetos colaborativos e desafios que me permitam crescer e contribuir de forma significativa.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=600&height=40&lines=Olá!+Meu+Nome+é+Hailton+Neto!;Eu+sou+um+programador+iniciante!)](https://git.io/typing-svg)
 
-<hr>
+<p align="justify">🌎 Hello World! Eu tenho 19 anos e estou começando minha caminhada no mundo da tecnologia </p>
 
-<div>
-    <a href="https://github.com/hailtonneto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true&theme=cobalt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</div>
+<p align="justify">Atualmente estou cursando o primeiro período de Análise e Desenvolvimento de Sistemas (ADS) na CESAR School.</p>
 
-<hr>
+<p align="justify">Estou empolgado para iniciar minha carreira profissional e aplicar o que tenho aprendido em sala de aula em um ambiente prático. Estou aberto a oportunidades de estágio, projetos colaborativos e desafios que me permitam crescer e contribuir de forma significativa.</p>
 
-### Tecnologias que mais domino
+<br>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
+<p align="center">
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true&theme=dracula" alt="Status do Perfil:"/>
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&layout=compact&theme=dracula" alt="Linguagens mais usadas:"/>
+</p>
 
-<hr>
+<br>
 
-### Tecnologias que estou aprendendo
+### 💻 Tecnologias que eu domino:
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
+#
 
-<hr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>&nbsp;
 
-### Minhas redes para contato
+#
+
+### 💻 Tecnologias que estou aprendendo:
+
+#
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px"/>&nbsp;
+
+#
+
+### 🌐 Minhas redes para contato:
+
+#
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailton-de-melo-lima-neto-2a81a1196/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_neto.melo/)
