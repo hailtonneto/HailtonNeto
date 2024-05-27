@@ -17,7 +17,7 @@
 
 ### 💻 Tecnologias que eu domino:
 
-#
+<hr>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px"/>&nbsp;
@@ -28,7 +28,7 @@
 
 ### 💻 Tecnologias que estou aprendendo:
 
-#
+<hr>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>&nbsp;
@@ -38,6 +38,6 @@
 
 ### 🌐 Minhas redes para contato:
 
-#
+<hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailton-de-melo-lima-neto-2a81a1196/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_neto.melo/)
