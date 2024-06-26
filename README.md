@@ -2,7 +2,7 @@
 
 <p align="justify">🌎 Hello World! Eu tenho 19 anos e estou começando minha caminhada no mundo da tecnologia </p>
 
-<p align="justify">Atualmente estou cursando o primeiro período de Análise e Desenvolvimento de Sistemas (ADS) na CESAR School.</p>
+<p align="justify">Atualmente estou cursando o oitavo período de técnico em Eletrônica no IFPE primeiro período de Análise e Desenvolvimento de Sistemas (ADS) na CESAR School.</p>
 
 <p align="justify">Estou empolgado para iniciar minha carreira profissional e aplicar o que tenho aprendido em sala de aula em um ambiente prático. Estou aberto a oportunidades de estágio, projetos colaborativos e desafios que me permitam crescer e contribuir de forma significativa.</p>
 
