@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=600&height=40&lines=Olá!+Meu+Nome+é+Hailton+Neto!;Eu+sou+um+programador+iniciante!)](https://git.io/typing-svg)
 
-<p align="justify">🌎 Hello World! Eu tenho 19 anos e estou começando minha caminhada no mundo da tecnologia </p>
+<p align="justify">🌎 Hello World! Eu tenho 20 anos e estou começando minha caminhada no mundo da tecnologia </p>
 
 <p align="justify">Sou formado técnico Eletrônica pelo IFPE, estou atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas (ADS) na CESAR School e também o segundo período de Sistemas de Informação (SI) na UFRPE.</p>
 
