@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=600&height=40&lines=Olá!+Meu+Nome+é+Hailton+Neto!;Eu+sou+um+programador+iniciante!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=600&height=40&lines=Hello!+My+Name+is+Hailton+Neto!;I'm+a+beginner+developer!)](https://git.io/typing-svg)
 
-<p align="justify">🌎 Hello World! Eu tenho 20 anos e estou começando minha caminhada no mundo da tecnologia </p>
+<p align="justify">🌎 Hello World! I'm 20 years old and I'm just starting my journey into the world of technology. </p>
 
-<p align="justify">Sou formado técnico Eletrônica pelo IFPE, estou atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas (ADS) na CESAR School e também o segundo período de Sistemas de Informação (SI) na UFRPE.</p>
+<p align="justify">I have a degree in Electronics from IFPE, I am currently studying the third period of Analysis and Development of Systems (ADS) at CESAR School and also the second period of Systems of Information (SI) at UFRPE.</p>
 
-<p align="justify">Estou empolgado para iniciar minha carreira profissional e aplicar o que tenho aprendido em sala de aula em um ambiente prático. Estou aberto a oportunidades de estágio, projetos colaborativos e desafios que me permitam crescer e contribuir de forma significativa.</p>
+<p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
 
 <br>
 
@@ -15,24 +15,42 @@
 
 <br>
 
-### 💻 Tecnologias que eu domino:
+### 💻 Technologies I master:
 
 <hr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>&nbsp;
+<div style="display: inline_block" align="center"><br>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+</div>
 
-### 💻 Tecnologias que estou aprendendo:
-
-<hr>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>&nbsp;
-
-### 🌐 Minhas redes para contato:
+### 💻 Technologies I'm learning:
 
 <hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hailton-neto-2a81a1196) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_neto.melo/)
+<div style="display: inline_block" align="center"><br>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</div>
+
+### 🌐 My contact networks:
+
+<hr>
+
+<div style="display: inline_block" align="center"><br>
+  <a href="https://www.instagram.com/_neto.melo/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:hailtonneto27@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hailtonneto/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
