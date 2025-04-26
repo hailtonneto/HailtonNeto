@@ -6,7 +6,9 @@
 
 <p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
 
-## 💻 Technologies I master:
+<br>
+
+## 💻 Technologies:
 
 #### Applications and data
 
@@ -41,7 +43,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-#### Technologies I'm learning:
+#### Technologies I'm Learning:
 
 <div style="display: inline_block" align="left">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -54,6 +56,8 @@
 <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true&theme=white" alt="Status do Perfil:"/>
 <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&hide_progress=true" alt="Linguagens mais usadas:"/>
 </p>
+
+<br>
 
 ## 💼 Work experience:
 
@@ -73,6 +77,8 @@ Languages ​​& Technologies: `Arduino`, `C++`\
 Featured projects: ...
 <br/>
 
+<br>
+
 ## 🌐 My contact networks:
 
 <div style="display: inline_block" align="left">
@@ -86,6 +92,8 @@ Featured projects: ...
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
