@@ -61,20 +61,22 @@
 
 ## 💼 Work experience:
 
-[<img align="left" height="94px" width="94px" alt="Alpek Polyester" src="https://media.licdn.com/dms/image/v2/C4D0BAQGmMQTlRJ0g_Q/company-logo_200_200/company-logo_200_200/0/1640357846700/pqspe_logo?e=1750896000&v=beta&t=Sd5yhRFWlxlB8J8TyAONHvZ-mUkGKdyruwzMdJhTdmQ"/>](https://alpekpolyester.com.br)
+[<img align="left" height="118px" width="118px" alt="Alpek Polyester" src="https://media.licdn.com/dms/image/v2/C4D0BAQGmMQTlRJ0g_Q/company-logo_200_200/company-logo_200_200/0/1640357846700/pqspe_logo?e=1750896000&v=beta&t=Sd5yhRFWlxlB8J8TyAONHvZ-mUkGKdyruwzMdJhTdmQ"/>](https://alpekpolyester.com.br)
 
 **Young Apprentice** \
 [**Alpek Polyester**](https://alpekpolyester.com.br) • 6-hour contract \
-Languages ​​& Technologies: `Excel`, `Power Bi`, `Arduino`\
-Featured projects: [Flow Control](https://github.com/hailtonneto/Projeto_Controle_Vazao), ...
+Languages ​​& Technologies: `Excel`, `Power Bi`, `Arduino` \
+Featured projects: [Flow Control](https://github.com/hailtonneto/Projeto_Controle_Vazao), ... \
+Duration: set/2024 - the moment
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
+[<img align="left" height="118px" width="118px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
 
 **Research Assistant** \
 [**CESAR School**](https://www.cesar.school) • Half-day work \
-Languages ​​& Technologies: `Arduino`, `C++`\
-Featured projects: ...
+Languages ​​& Technologies: `Arduino`, `C++` \
+Featured projects: ... \
+Duration: set/2024 - the moment
 <br/>
 
 <br>
