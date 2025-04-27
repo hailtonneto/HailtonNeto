@@ -6,8 +6,6 @@
 
 <p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
 
-<br>
-
 ## 💻 Technologies:
 
 #### Applications and data
@@ -57,8 +55,6 @@
 <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&hide_progress=true" alt="Linguagens mais usadas:"/>
 </p>
 
-<br>
-
 ## 💼 Work experience:
 
 [<img align="left" height="118px" width="118px" alt="Alpek Polyester" src="https://media.licdn.com/dms/image/v2/C4D0BAQGmMQTlRJ0g_Q/company-logo_200_200/company-logo_200_200/0/1640357846700/pqspe_logo?e=1750896000&v=beta&t=Sd5yhRFWlxlB8J8TyAONHvZ-mUkGKdyruwzMdJhTdmQ"/>](https://alpekpolyester.com.br)
@@ -79,8 +75,6 @@ Featured projects: ... \
 Duration: set/2024 - the moment
 <br/>
 
-<br>
-
 ## 🌐 My contact networks:
 
 <div style="display: inline_block" align="left">
@@ -94,8 +88,6 @@ Duration: set/2024 - the moment
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
