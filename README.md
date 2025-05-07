@@ -6,6 +6,8 @@
 
 <p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
 
+<br>
+
 ## 💻 Technologies:
 
 #### Applications and data
@@ -55,25 +57,27 @@
 <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&hide_progress=true" alt="Linguagens mais usadas:"/>
 </p>
 
+<br>
+
 ## 💼 Work experience:
 
-[<img align="left" height="118px" width="118px" alt="Alpek Polyester" src="https://media.licdn.com/dms/image/v2/C4D0BAQGmMQTlRJ0g_Q/company-logo_200_200/company-logo_200_200/0/1640357846700/pqspe_logo?e=1750896000&v=beta&t=Sd5yhRFWlxlB8J8TyAONHvZ-mUkGKdyruwzMdJhTdmQ"/>](https://alpekpolyester.com.br)
+[<img align="left" height="94px" width="94px" alt="Alpek Polyester" src="https://media.licdn.com/dms/image/v2/C4D0BAQGmMQTlRJ0g_Q/company-logo_200_200/company-logo_200_200/0/1640357846700/pqspe_logo?e=1750896000&v=beta&t=Sd5yhRFWlxlB8J8TyAONHvZ-mUkGKdyruwzMdJhTdmQ"/>](https://alpekpolyester.com.br)
 
 **Young Apprentice** \
 [**Alpek Polyester**](https://alpekpolyester.com.br) • 6-hour contract \
 Languages ​​& Technologies: `Excel`, `Power Bi`, `Arduino` \
-Featured projects: [Flow Control](https://github.com/hailtonneto/Projeto_Controle_Vazao), ... \
 Duration: set/2024 - the moment
 <br/>
 
-[<img align="left" height="118px" width="118px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
+[<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
 
 **Research Assistant** \
 [**CESAR School**](https://www.cesar.school) • Half-day work \
 Languages ​​& Technologies: `Arduino`, `C++` \
-Featured projects: ... \
 Duration: set/2024 - the moment
 <br/>
+
+<br>
 
 ## 🌐 My contact networks:
 
