@@ -61,20 +61,28 @@
 
 ## 💼 Work experience:
 
-[<img align="left" height="94px" width="94px" alt="Alpek Polyester" src="https://media.licdn.com/dms/image/v2/C4D0BAQGmMQTlRJ0g_Q/company-logo_200_200/company-logo_200_200/0/1640357846700/pqspe_logo?e=1750896000&v=beta&t=Sd5yhRFWlxlB8J8TyAONHvZ-mUkGKdyruwzMdJhTdmQ"/>](https://alpekpolyester.com.br)
+[<img align="left" height="94px" width="94px" alt="Bzu Tech" src="https://github.com/user-attachments/assets/360f22fb-e1be-4840-b0af-a466c9e95abb"/>](https://www.bzutech.com.br/)
 
-**Young Apprentice** \
-[**Alpek Polyester**](https://alpekpolyester.com.br) • 6-hour contract \
-Languages ​​& Technologies: `Excel`, `Power Bi`, `Arduino` \
-Duration: set/2024 - the moment
+**Intern** \
+[**Bzu Tech**](https://www.bzutech.com.br/) • Half-day work \
+Languages ​​& Technologies: `C++`, `ESP32`, `STM32`, `Arduino`, `Fusion360` \
+Duration: jun/2025 - the moment
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
 
 **Research Assistant** \
 [**CESAR School**](https://www.cesar.school) • Half-day work \
-Languages ​​& Technologies: `Arduino`, `C++` \
+Languages ​​& Technologies: `Arduino`, , `Education`, `C++` \
 Duration: set/2024 - the moment
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Alpek Polyester" src="https://github.com/user-attachments/assets/738066d8-0a4c-4414-8e5d-8e56796bde89"/>](https://alpekpolyester.com.br)
+
+**Young Apprentice** \
+[**Alpek Polyester**](https://alpekpolyester.com.br) • 6-hour contract \
+Languages ​​& Technologies: `Excel`, `Power Bi`, `Arduino` \
+Duration: set/2024 - jun/20025
 <br/>
 
 <br>
@@ -92,14 +100,3 @@ Duration: set/2024 - the moment
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/hailtonneto/count.svg"
-    alt="Profile Visitor Count"
-  />
-</p>
