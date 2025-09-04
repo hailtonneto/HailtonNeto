@@ -82,7 +82,7 @@ Duration: set/2024 - the moment
 **Young Apprentice** \
 [**Alpek Polyester**](https://alpekpolyester.com.br) • 6-hour contract \
 Languages ​​& Technologies: `Excel`, `Power Bi`, `Arduino` \
-Duration: set/2024 - jun/20025
+Duration: set/2024 - jun/2025
 <br/>
 
 <br>
