@@ -73,7 +73,7 @@ Duration: jun/2025 - the moment
 
 **Research Assistant** \
 [**CESAR School**](https://www.cesar.school) • Half-day work \
-Languages ​​& Technologies: `Arduino`, , `Education`, `C++` \
+Languages ​​& Technologies: `Arduino`, `Education`, `C++` \
 Duration: set/2024 - the moment
 <br/>
 
