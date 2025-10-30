@@ -2,7 +2,7 @@
 
 <p align="justify">🌎 Hello World! I'm 20 years old and I'm just starting my journey into the world of technology. </p>
 
-<p align="justify">I have a degree in Electronics from IFPE, I am currently studying the third period of Analysis and Development of Systems (ADS) at CESAR School and also the second period of Systems of Information (SI) at UFRPE.</p>
+<p align="justify">I have a degree in Electronics from IFPE, I am currently studying the fourth period of Analysis and Development of Systems (ADS) at CESAR School and also the third period of Systems of Information (SI) at UFRPE.</p>
 
 <p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
 
@@ -13,7 +13,6 @@
 #### Applications and data
 
 <div style="display: inline_block" align="left">
-  <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -53,7 +52,7 @@
 <br>
 
 <p align="center">
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true&theme=white" alt="Status do Perfil:"/>
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true" alt="Status do Perfil:"/>
 <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&hide_progress=true" alt="Linguagens mais usadas:"/>
 </p>
 
