@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=600&height=40&lines=Hello!+My+Name+is+Hailton+Neto!;I'm+a+beginner+developer!)](https://git.io/typing-svg)
 
-<p align="justify">🌎 Hello World! I'm 20 years old and I'm just starting my journey into the world of technology. </p>
+<p align="justify">🌎 Hello World! I'm 21 years old and I'm just starting my journey into the world of technology. </p>
 
-<p align="justify">I have a degree in Electronics from IFPE, I am currently studying the fourth period of Analysis and Development of Systems (ADS) at CESAR School and also the third period of Systems of Information (SI) at UFRPE.</p>
+<p align="justify">I have a degree in Electronics from IFPE, I am currently studying the fifth period of Analysis and Development of Systems (ADS) at CESAR School and also the fourth period of Systems of Information (SI) at UFRPE.</p>
 
 <p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
 
@@ -73,7 +73,7 @@ Duration: jun/2025 - the moment
 **Research Assistant** \
 [**CESAR School**](https://www.cesar.school) • Half-day work \
 Languages ​​& Technologies: `Arduino`, `Education`, `C++` \
-Duration: set/2024 - the moment
+Duration: set/2024 - dez/2025
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Alpek Polyester" src="https://github.com/user-attachments/assets/738066d8-0a4c-4414-8e5d-8e56796bde89"/>](https://alpekpolyester.com.br)
