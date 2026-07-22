@@ -2,7 +2,7 @@
 
 <p align="justify">🌎 Hello World! I'm 21 years old and I'm just starting my journey into the world of technology. </p>
 
-<p align="justify">I have a degree in Electronics from IFPE, I am currently studying the fifth period of Analysis and Development of Systems (ADS) at CESAR School and also the fourth period of Systems of Information (SI) at UFRPE.</p>
+<p align="justify"> I am an electronics technician (IFPE – Recife Campus), hold a degree in Systems Analysis and Development (CESAR School), and am currently pursuing a postgraduate degree in Robotics and AI at CIn-UFPE.</p>
 
 <p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
 
