@@ -77,14 +77,6 @@ Languages & Technologies: `C++`, `C`, `Python`, `ESP32`, `STM32`, `ATmega`, `Pla
 Duration: Jun/2025 - Jun/2026
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" alt="Alpek Polyester" src="https://github.com/user-attachments/assets/738066d8-0a4c-4414-8e5d-8e56796bde89"/>](https://alpekpolyester.com.br)
-
-**Instrumentation Technician** \
-[**Alpek Polyester**](https://alpekpolyester.com.br) \
-Languages & Technologies: `Industrial Automation`, `Fire & Gas (SIS)`, `PLC`, `SCADA`, `HART`, `Modbus`, `4-20mA`, `Troubleshooting` \
-Duration: Sep/2024 - Jun/2025
-<br/><br/>
-
 [<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
 
 **Scientific Researcher & Teaching Assistant** \
