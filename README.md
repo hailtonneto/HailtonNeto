@@ -1,91 +1,101 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=600&height=40&lines=Hello!+My+Name+is+Hailton+Neto!;I'm+a+beginner+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=700&height=40&lines=Hello!+I'm+Hailton+Neto!;Robotics+%26+AI+Engineer+%40+CRIAR+(CIn-UFPE);Embedded+Systems+%26+Software+Engineer;Python+%7C+C%2B%2B+%7C+ROS2+%7C+Computer+Vision+%7C+IoT)](https://git.io/typing-svg)
 
-<p align="justify">🌎 Hello World! I'm 21 years old and I'm just starting my journey into the world of technology. </p>
+<p align="justify">🚀 <b>Welcome!</b> I am an Engineer operating at the intersection of <b>Software Engineering, Artificial Intelligence, Robotics, and Embedded Systems</b>, building solutions that bridge Python, C/C++, and hardware-software integration with a focus on performance, precision, and operational reliability.</p>
 
-<p align="justify"> I am an electronics technician (IFPE – Recife Campus), hold a degree in Systems Analysis and Development (CESAR School), and am currently pursuing a postgraduate degree in Robotics and AI at CIn-UFPE.</p>
+<p align="justify">🎓 I am currently a <b>Postgraduate Resident in Robotics & AI at CRIAR / CIn-UFPE</b> and a B.S. candidate in Information Systems at <b>UFRPE</b>. I hold a degree in Systems Analysis and Development from <b>CESAR School</b> and a technical diploma in Electronics from <b>IFPE</b>.</p>
 
-<p align="justify">I am excited to start my professional career and apply what I have learned in the classroom to a practical environment. I am open to internship opportunities, collaborative projects, and challenges that allow me to grow and contribute in a meaningful way.</p>
+<p align="justify">⚙️ My work spans backend APIs, Computer Vision pipelines, Generative AI & Agents, industrial robot control (ROS2), low-level IoT firmware (ESP32, STM32, ATmega), 3D CAD design, and mission-critical industrial automation.</p>
 
 <br>
 
-## 💻 Technologies:
+## 💻 Technologies & Stack:
 
-#### Applications and data
-
+#### Languages & Backend
 <div style="display: inline_block" align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
 </div>
 
-#### IoT
-
+#### Robotics, AI & Computer Vision
 <div style="display: inline_block" align="left">
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img alt="ROS2" src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white">
+  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white">
+</div>
+
+#### Embedded Systems, IoT & 3D CAD
+<div style="display: inline_block" align="left">
   <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+  <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white">
+  <img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-00A859?style=for-the-badge&logo=freertos&logoColor=white">
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
+  <img alt="Autodesk Fusion" src="https://img.shields.io/badge/Autodesk_Fusion-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white">
 </div>
 
-#### DevOps
-
+#### DevOps, OS & Tools
 <div style="display: inline_block" align="left">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-#### Development Tools
-
-<div style="display: inline_block" align="left">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-
-#### Technologies I'm Learning:
-
-<div style="display: inline_block" align="left">
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
 <br>
 
 <p align="center">
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true" alt="Status do Perfil:"/>
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&hide_progress=true" alt="Linguagens mais usadas:"/>
+  <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=hailtonneto&show_icons=true" alt="Profile Stats"/>
+  <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailtonneto&hide_progress=true" alt="Top Languages"/>
 </p>
 
 <br>
 
-## 💼 Work experience:
+## 💼 Work Experience:
+
+[<img align="left" height="94px" width="94px" alt="CRIAR CIn-UFPE" src="https://github.com/user-attachments/assets/40f1a0de-3691-4694-931a-c0be4f0960ec"/>](https://criar.cin.ufpe.br)
+
+**Robotics & AI Software Engineer (Resident)** \
+[**CRIAR — (CIn-UFPE)**](https://criar.cin.ufpe.br) • Residency Program \
+Languages & Technologies: `Python`, `FastAPI`, `ROS2`, `PyTorch`, `YOLO`, `OpenCV`, `AI Agents`, `MCP`, `Pytest`, `Docker` \
+Duration: Jul/2026 - Present
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" alt="Bzu Tech" src="https://github.com/user-attachments/assets/360f22fb-e1be-4840-b0af-a466c9e95abb"/>](https://www.bzutech.com.br/)
 
-**Intern** \
-[**Bzu Tech**](https://www.bzutech.com.br/) • Half-day work \
-Languages ​​& Technologies: `C++`, `ESP32`, `STM32`, `Arduino`, `Fusion360` \
-Duration: jun/2025 - the moment
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
-
-**Research Assistant** \
-[**CESAR School**](https://www.cesar.school) • Half-day work \
-Languages ​​& Technologies: `Arduino`, `Education`, `C++` \
-Duration: set/2024 - dez/2025
-<br/>
+**Embedded Systems & IoT Developer** \
+[**Bzu Tech**](https://www.bzutech.com.br/) \
+Languages & Technologies: `C++`, `C`, `Python`, `ESP32`, `STM32`, `ATmega`, `PlatformIO`, `FreeRTOS`, `LoRa`, `ESP-NOW`, `Modbus`, `Autodesk Fusion` \
+Duration: Jun/2025 - Jun/2026
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" alt="Alpek Polyester" src="https://github.com/user-attachments/assets/738066d8-0a4c-4414-8e5d-8e56796bde89"/>](https://alpekpolyester.com.br)
 
-**Young Apprentice** \
-[**Alpek Polyester**](https://alpekpolyester.com.br) • 6-hour contract \
-Languages ​​& Technologies: `Excel`, `Power Bi`, `Arduino` \
-Duration: set/2024 - jun/2025
+**Instrumentation Technician** \
+[**Alpek Polyester**](https://alpekpolyester.com.br) \
+Languages & Technologies: `Industrial Automation`, `Fire & Gas (SIS)`, `PLC`, `SCADA`, `HART`, `Modbus`, `4-20mA`, `Troubleshooting` \
+Duration: Sep/2024 - Jun/2025
+<br/><br/>
+
+[<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
+
+**Scientific Researcher & Teaching Assistant** \
+[**CESAR School**](https://www.cesar.school) • Garagem Lab \
+Languages & Technologies: `Educational Robotics`, `Digital Systems`, `C++`, `Microcontrollers`, `Rapid Prototyping` \
+Duration: Sep/2024 - Dec/2025
 <br/>
 
 <br>
 
-## 🌐 My contact networks:
+## 🌐 Connect with me:
 
 <div style="display: inline_block" align="left">
   <a href="https://www.linkedin.com/in/hailtonneto/" target="_blank">
